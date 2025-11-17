@@ -1,8 +1,11 @@
-👋🏻 I'm Christine. I am passionate about building & designing digital products that empower individuals. 
+👋🏻 I’m Christine — a former Microsoft iOS Engineer turned Creative Technologist. I design and build digital experiences that empower, delight, and scale.
 
-👩🏻‍💻 Graduated from Vanderbilt University with a double degree in Computer Science & Mathematics, my academic background & research experience gives me a solid foundation in OOP and data analysis. Having worked with multiple organizations on UI projects, I am also experienced with UI tool kits such as Adobe Illustrator, Photoshop, Figma, Sketch, etc. 
+🚀 I am set to graduate this December with a Master of Science in Computer Science from Northeastern University, on track for a 4.0 GPA. I successfully completed this challenging program in just one calendar year, demonstrating extreme dedication and focus in areas like Machine Learning, AI, and Distributed Systems. This accelerated journey has prepared me to tackle the most complex challenges in tech. I also hold a double degree in Computer Science & Applied Mathematics with a minor in Neuroscience from Vanderbilt University.
 
-📸 My hobbies extend from regularly creating fashion-related content on Youtube & Instagram, running marathons, and being a part-time engagement/wedding photographer. 
+👩🏻‍💻 I spent over three years on the Microsoft Teams iOS development team, where I was promoted to Software Engineer II. I led end-to-end features on the consumer-facing product (Teams Free), focusing on intuitive UX, cross-platform consistency, and building scalable solutions for millions of global users.
 
-🌟 Feel free to reach out if you want to talk about software engineer opportunities, photography, UI development, machine learning, or filmmaking!
+📱 Outside of full-time roles, I've independently built mobile and web apps (like Reflectr, TransposeX), leveraged design stacks (Figma, Illustrator), and shipped user-first experiences using Flutter and Swift.
 
+ 📸 When I’m not writing code, you’ll find me learning hip hop chores off YouTube, shooting weddings, or curating visual stories on social media. 
+
+💬 Let’s connect! Always open to conversations around software engineering, product innovation, machine learning, or creative tech.
